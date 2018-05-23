@@ -1,5 +1,5 @@
 package com.farhadkahmed;
-
+// Composition: The Resolution class is component of the Monitor class. This is a "has a" relation.
 public class Resolution {
     private int width;
     private int height;
